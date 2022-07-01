@@ -1,4 +1,5 @@
 主に日本語で書かれた文法誤り訂正分野の文献を収集・分類することを目的としています．
+
 査読有りの文献には査読カラムに「有」と表記されます．
 
 # 目次
@@ -33,9 +34,9 @@
 
 |タイトル|リンク|Note|
 |:--|:--|:--|
-|私のブックマーク 「自然言語処理による文法誤り訂正|[[website]](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol33-no6/) [[pdf]](https://www.jstage.jst.go.jp/article/jjsai/33/6/33_893/_pdf/-char/ja)|2011-2018ごろの文法誤り訂正の動向を追うのに有用．|
+|私のブックマーク 「自然言語処理による文法誤り訂正」|[[website]](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol33-no6/) [[pdf]](https://www.jstage.jst.go.jp/article/jjsai/33/6/33_893/_pdf/-char/ja)|2011-2018ごろの文法誤り訂正の動向を追うのに有用．|
 
-### 英語を対象とするもの
+# 英語を対象とするもの
 
 ### 評価尺度
 
@@ -99,16 +100,19 @@
 ||2022|[多様な規則を活用した文法誤り訂正のデータ拡張に関する分析](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_542/_article/-char/ja)|有||
 
 ### データクリーニング
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2020|[文法誤り訂正のための自己改良戦略に基づくノイズ除去](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-2.pdf)|||
 
 ### 分析
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2010|[英文冠詞誤りの自動校正手法におけるアプローチの違いによる傾向分析](https://www.anlp.jp/proceedings/annual_meeting/2010/pdf_dir/PA1-38.pdf)|||
 ||2014|[統計的機械翻訳に基づく英語文法誤り訂正におけるフレーズベースと統語ベースの比較と分析](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-12.pdf)|||
 ||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
+||2017|[英語学習者の文法誤りパターンと正誤情報を考慮した単語分散表現学習](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-6.pdf)|||
 ||2019|[文法誤り訂正のコーパス横断評価 : 単一コーパス評価で十分か?](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf)|||
 ||2019|[⽂法誤り訂正における反復訂正の効果検証](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-17.pdf)|||
 ||2021|[文法誤り訂正モデルは訂正に必要な文法を学習しているか](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-4.pdf)|||
@@ -118,6 +122,7 @@
 ||2022|[ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G4-2.pdf)|||
 
 ### 誤り検出
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2010|[学習効果を最大とするための英文誤り検出の性能評価](https://www.anlp.jp/proceedings/annual_meeting/2010/pdf_dir/A4-4.pdf)|||
@@ -127,7 +132,7 @@
 ||2022|[大規模マスク言語モデルの文法誤り認識能力](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-16.pdf)|||
 
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
-文法誤り訂正は主に教育応用を見据えて発達してきたこともあり，訂正・検出を行わなくとも学習者英語に関する研究は有用であろうとのことから，このような項目を作っています．
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2013|[前方文脈を考慮した冠詞の推定](https://www.anlp.jp/proceedings/annual_meeting/2013/pdf_dir/P4-18.pdf)|||
@@ -137,7 +142,6 @@
 ||2016|[日本語学習者の作文における誤用タイプの階層的アノテーションに基づく機械学習による自動分類](https://www.jstage.jst.go.jp/article/jnlp/23/2/23_195/_article/-char/ja)|有||
 ||2016|[英語動詞の適切な使い分けを支援するシステムの開発](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A3-2.pdf)|||
 ||2016|[冠詞推定のための情報構造仮説の検討](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P12-3.pdf)|||
-||2017|[英語学習者の文法誤りパターンと正誤情報を考慮した単語分散表現学習](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-6.pdf)|||
 ||2017|[スペル誤りに着目した学習者の英語に対する品詞タグ付け・チャンキングの性能調査](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P9-5.pdf)|||
 ||2018|[品詞解析の学習者英語への分野適応](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/E3-3.pdf)|||
 ||2018|[綴り誤りが語彙の豊富さの指標に与える影響の分析](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P6-4.pdf)|||
@@ -145,7 +149,7 @@
 
 # 日本語を対象とするもの
 
-### モデル提案
+### モデル
 
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
@@ -241,6 +245,7 @@
 |GECアドベントカレンダー|2021|[GEC (Grammatical Error Correction) Advent Calendar 2021](https://qiita.com/advent-calendar/2021/gec)||
 
 # 解説記事・学会記事など
+
 |タイトル|Year|Note|
 |:--|:--|:--|
 |[事前学習済みマスク言語モデルを組み合わせた符号化復号化文法誤り訂正モデル](https://www.jstage.jst.go.jp/article/jnlp/27/3/27_683/_article/-char/ja)|2020||
