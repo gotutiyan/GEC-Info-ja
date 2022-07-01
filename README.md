@@ -1,6 +1,33 @@
-文法誤り訂正分野の日本語で書かれた文献を収集・分類することを目的としています．
-英語で書かれた論文でも，日本国内会（言語処理学会など）に投稿されていればこちらに載ります．
-ジャーナル（論文誌「自然言語処理」など）もとりあえずここです．特に分けることなく載せています．ただし，査読あり/なしはそれなりに区別する必要があることも考慮し，査読ありの場合は明記します．
+主に日本語で書かれた文法誤り訂正分野の文献を収集・分類することを目的としています．
+査読有りの文献には査読カラムに「有」と表記されます．
+
+# 目次
+
+* [まとめ・サーベイなど](https://github.com/gotutiyan/GEC-Info-ja#%E3%81%BE%E3%81%A8%E3%82%81%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E3%81%AA%E3%81%A9)
+* [英語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E8%8B%B1%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
+    * [評価尺度](https://github.com/gotutiyan/GEC-Info-ja#%E8%A9%95%E4%BE%A1%E5%B0%BA%E5%BA%A6)
+    * [モデル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%A2%E3%83%87%E3%83%AB%E6%8F%90%E6%A1%88)
+    * [データセット](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88)
+    * [アノテーション](https://github.com/gotutiyan/GEC-Info-ja#%E3%82%A2%E3%83%8E%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+    * [擬似データ生成](https://github.com/gotutiyan/GEC-Info-ja#%E6%93%AC%E4%BC%BC%E3%83%87%E3%83%BC%E3%82%BF%E7%94%9F%E6%88%90)
+    * [データクリーニング](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)
+    * [分析](https://github.com/gotutiyan/GEC-Info-ja#%E5%88%86%E6%9E%90)
+    * [誤り検出](https://github.com/gotutiyan/GEC-Info-ja#%E8%AA%A4%E3%82%8A%E6%A4%9C%E5%87%BA)
+    * [文法誤り訂正・検出以外の学習者英語を対象とした話題](https://github.com/gotutiyan/GEC-Info-ja#%E6%96%87%E6%B3%95%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E6%A4%9C%E5%87%BA%E4%BB%A5%E5%A4%96%E3%81%AE%E5%AD%A6%E7%BF%92%E8%80%85%E8%8B%B1%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E8%A9%B1%E9%A1%8C)
+* [日本語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
+    * [モデル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%A2%E3%83%87%E3%83%AB%E6%8F%90%E6%A1%88-1)
+    * [データセット](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%83%E3%83%88-1)
+    * [擬似誤り生成](https://github.com/gotutiyan/GEC-Info-ja#%E6%93%AC%E4%BC%BC%E8%AA%A4%E3%82%8A%E7%94%9F%E6%88%90)
+    * [分析](https://github.com/gotutiyan/GEC-Info-ja#%E5%88%86%E6%9E%90-1)
+    * [誤り検出](https://github.com/gotutiyan/GEC-Info-ja#%E8%AA%A4%E3%82%8A%E6%A4%9C%E5%87%BA-1)
+    * [システム開発](https://github.com/gotutiyan/GEC-Info-ja#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA)
+* [中国語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
+* [ロシア語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
+* [多言語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E5%A4%9A%E8%A8%80%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
+* [関連タスク](https://github.com/gotutiyan/GEC-Info-ja#%E9%96%A2%E9%80%A3%E3%82%BF%E3%82%B9%E3%82%AF)
+    * [解説文生成](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E6%96%87%E7%94%9F%E6%88%90)
+* [プロジェクト・企画など](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E4%BC%81%E7%94%BB%E3%81%AA%E3%81%A9)
+* [解説記事・学会記事など](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B%E5%AD%A6%E4%BC%9A%E8%A8%98%E4%BA%8B%E3%81%AA%E3%81%A9)
 
 # まとめ・サーベイなど
 
@@ -8,13 +35,7 @@
 |:--|:--|:--|
 |私のブックマーク 「自然言語処理による文法誤り訂正|[[website]](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol33-no6/) [[pdf]](https://www.jstage.jst.go.jp/article/jjsai/33/6/33_893/_pdf/-char/ja)|2011-2018ごろの文法誤り訂正の動向を追うのに有用．|
 
-# 英語を対象とするもの
-
-### タスク提案
-
-|キーワード/概要|Year|論文|査読|Note|
-|:--|:--|:--|:--|:--|
-||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
+### 英語を対象とするもの
 
 ### 評価尺度
 
@@ -27,7 +48,7 @@
 ||2022|[IMPARA: パラレルデータにおける修正の影響度に基づいた文法誤り訂正の自動評価法](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G2-3.pdf)|||
 ||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)|||
 
-### モデル提案
+### モデル
 
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
@@ -56,18 +77,21 @@
 ||2022|[Masked Language Model による系列確率に基づく文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT4-17.pdf)|||
 
 ### データセット
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 |KJコーパス|2011|[文法誤り情報および品詞／句情報付き英語学習者コーパスの構築](https://www.anlp.jp/proceedings/annual_meeting/2011/pdf_dir/A3-1.pdf)|||
 ||2017|[綴り誤り研究のための日本人英語学習者コーパスの構築](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P18-6.pdf)|||
 
 ### アノテーション
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2015|[英語学習者の作文における誤りタグの自動付与](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/E6-4.pdf)|||
 ||2015|[英語学習者コーパスのための句構造アノテーション](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P1-6.pdf)|||
 
 ### 擬似データ生成
+
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2021|[ニューラル文法誤り訂正のための多様な規則を用いる人工誤り生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-18.pdf)|||
@@ -84,6 +108,7 @@
 |:--|:--|:--|:--|:--|
 ||2010|[英文冠詞誤りの自動校正手法におけるアプローチの違いによる傾向分析](https://www.anlp.jp/proceedings/annual_meeting/2010/pdf_dir/PA1-38.pdf)|||
 ||2014|[統計的機械翻訳に基づく英語文法誤り訂正におけるフレーズベースと統語ベースの比較と分析](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-12.pdf)|||
+||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
 ||2019|[文法誤り訂正のコーパス横断評価 : 単一コーパス評価で十分か?](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf)|||
 ||2019|[⽂法誤り訂正における反復訂正の効果検証](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-17.pdf)|||
 ||2021|[文法誤り訂正モデルは訂正に必要な文法を学習しているか](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-4.pdf)|||
