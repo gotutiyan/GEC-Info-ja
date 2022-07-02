@@ -43,11 +43,11 @@
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2017|[文法誤り訂正のためのリファレンスレス評価](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/E6-4.pdf)|||
+||2017|文法誤り訂正の文単位評価におけるリファレンスレス手法の評価性能||[NL研234](https://nl-ipsj.or.jp/2017/10/26/4th-nl-sympo/)|
 ||2018|[文法性・流暢性・意味保存性に基づく文法誤り訂正の参照無し評価](https://www.jstage.jst.go.jp/article/jnlp/25/5/25_555/_article/-char/ja)|有||
 ||2020|[訂正難易度を考慮した文法誤り訂正のための性能評価尺度](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-3.pdf)|||
 ||2021|[文法誤り訂正の参照文を用いない自動評価の人手評価への最適化](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_404/_article/-char/ja)|有||
 ||2022|[IMPARA: パラレルデータにおける修正の影響度に基づいた文法誤り訂正の自動評価法](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G2-3.pdf)|||
-||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)|||
 
 ### モデル
 
@@ -56,11 +56,14 @@
 ||2011|[自動獲得されるルールに基づく英文冠詞誤り校正手法における最大エントロピー分類器の利用](https://www.anlp.jp/proceedings/annual_meeting/2011/pdf_dir/P3-2.pdf)|||
 ||2012|[大域的文脈情報を用いた英語時制誤りの検出と訂正](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A2-4.pdf)|||
 ||2012|[冠詞誤り訂正時における訂正根拠の提示](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A2-3.pdf)|||
+||2012|英語スペリング訂正と品詞タグ付けの結合学習||[NL研206](https://nl-ipsj.or.jp/2015/07/13/%e7%ac%ac206%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-sig-nl-%e7%ac%ac91%e5%9b%9e%e9%9f%b3%e5%a3%b0%e8%a8%80%e8%aa%9e%e6%83%85%e5%a0%b1%e5%87%a6/)|
 ||2013|[学習者の誤り傾向を反映した英語動詞選択誤りへの訂正候補推薦](https://www.anlp.jp/proceedings/annual_meeting/2013/index.html)|||
 ||2013|[前置詞誤り検出／訂正のための誤り格フレームの生成](https://www.anlp.jp/proceedings/annual_meeting/2013/index.html)|||
 ||2014|[定冠詞の前方照応用法を考慮した冠詞誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-9.pdf)|||
 ||2014|[誤りに関する説明を提示可能な前置詞誤り訂正手法](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P2-10.pdf)|||
+||2014|複単語表現を考慮した英語文法誤り訂正||[NL研217](https://nl-ipsj.or.jp/2015/07/13/%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e5%ad%a6%e4%bc%9a-%e7%ac%ac217%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2015|[高度な英文訂正への統計的機械翻訳技術の適用](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/A3-1.pdf)|||
+||2015|ベクトル空間モデルを用いた英文コロケーション誤り訂正||[NL研222](https://nl-ipsj.or.jp/2015/07/14/%e7%ac%ac222%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2016|[文脈を考慮した前置詞誤り訂正に向けた前置詞とその潜在意味関係の同時解析](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-2.pdf)|||
 ||2016|[リランキングによる文法誤り訂正/訂正候補提示の性能改善](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P3-2.pdf)|||
 ||2017|[学習者英語のための綴り誤り訂正手法と綴り誤り分析への応用](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/E6-3.pdf)|||
@@ -95,6 +98,7 @@
 
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
+||2020|英語学習者の母語を考慮した文法誤り訂正のための擬似データ生成||[NL研246](https://nl-ipsj.or.jp/2020/10/29/nl246-program/)|
 ||2021|[ニューラル文法誤り訂正のための多様な規則を用いる人工誤り生成](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-18.pdf)|||
 ||2021|[文法誤り訂正モデルのエラー分析に基づく疑似データ生成の効果検証](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D7-4.pdf)|||
 ||2022|[多様な規則を活用した文法誤り訂正のデータ拡張に関する分析](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_542/_article/-char/ja)|有||
@@ -110,7 +114,10 @@
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2010|[英文冠詞誤りの自動校正手法におけるアプローチの違いによる傾向分析](https://www.anlp.jp/proceedings/annual_meeting/2010/pdf_dir/PA1-38.pdf)|||
+||2012|大規模英語学習者コーパスを用いた英作文の文法誤り訂正の課題分析||[NL研209](https://nl-ipsj.or.jp/2015/07/13/%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e5%ad%a6%e4%bc%9a-%e7%ac%ac209%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2014|[統計的機械翻訳に基づく英語文法誤り訂正におけるフレーズベースと統語ベースの比較と分析](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-12.pdf)|||
+||2014|統計的機械翻訳を用いた英語文法誤り訂正の結果をリランキングすることで訂正性能の改善はできるか？||[NL研216](https://nl-ipsj.or.jp/2015/07/13/%e7%ac%ac101%e5%9b%9e%e9%9f%b3%e5%a3%b0%e8%a8%80%e8%aa%9e%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-sig-slp-%e7%ac%ac216%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6/)|
+||2015|英単語タイピングゲームによるスペリング誤りの抽出と分析||[NL研222](https://nl-ipsj.or.jp/2015/07/14/%e7%ac%ac222%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
 ||2017|[英語学習者の文法誤りパターンと正誤情報を考慮した単語分散表現学習](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-6.pdf)|||
 ||2019|[文法誤り訂正のコーパス横断評価 : 単一コーパス評価で十分か?](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf)|||
@@ -120,6 +127,7 @@
 ||2021|[文法誤り訂正モデルの横断評価](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja)|有||
 ||2022|[文法誤り訂正への訂正重要度の導入](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-1.pdf)|||
 ||2022|[ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G4-2.pdf)|||
+||2022|文法誤り訂正における訂正難易度の判別可能性||[[NL研252]](https://nl-ipsj.or.jp/2022/06/13/nl252-program/) [[スライド]](https://gotutiyan.github.io/data/slides/NLKen-202206.pdf)|
 
 ### 誤り検出
 
@@ -131,6 +139,13 @@
 ||2019|[深層言語表現モデルに対するマルチヘッド・多層アテンションによる英語文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-36.pdf)|||
 ||2022|[大規模マスク言語モデルの文法誤り認識能力](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-16.pdf)|||
 
+### 論述リビジョン
+
+|キーワード/概要|Year|論文|査読|Note|
+|:--|:--|:--|:--|:--|
+||2019|Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond||[NL研241](https://nl-ipsj.or.jp/2019/08/01/nl241-program/)|
+||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)|||
+
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
 
 |キーワード/概要|Year|論文|査読|Note|
@@ -140,6 +155,7 @@
 ||2015|[英語学習者コーパスにおける名詞句発達分析](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/E5-4.pdf)|||
 ||2015|[運用能力レベル別に見る英語学習者発話の情報構造](https://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/E5-3.pdf)|||
 ||2016|[日本語学習者の作文における誤用タイプの階層的アノテーションに基づく機械学習による自動分類](https://www.jstage.jst.go.jp/article/jnlp/23/2/23_195/_article/-char/ja)|有||
+||2016|誤りの傾向と文の容認性に着目した英作文のレベル判定||[NL研227](https://nl-ipsj.or.jp/2016/07/07/nl227-program/)|
 ||2016|[英語動詞の適切な使い分けを支援するシステムの開発](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/A3-2.pdf)|||
 ||2016|[冠詞推定のための情報構造仮説の検討](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P12-3.pdf)|||
 ||2017|[スペル誤りに着目した学習者の英語に対する品詞タグ付け・チャンキングの性能調査](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P9-5.pdf)|||
@@ -155,6 +171,7 @@
 |:--|:--|:--|:--|:--|
 ||2009|[重み付き有限状態トランスデューサーを用いた文字誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2009/pdf_dir/C2-5.pdf)|||
 ||2011|[大規模添削コーパスを用いた統計的機械翻訳手法による日本語誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2011/pdf_dir/E4-5.pdf)|||
+||2011|日本語教師のための誤り訂正ローマ字かな変換||[NL研203](https://nl-ipsj.or.jp/2015/07/13/%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e5%ad%a6%e4%bc%9a-%e7%ac%ac203%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2012|[日本語学習者の作文の誤り訂正に向けた単語分割](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A1-7.pdf)|||
 ||2012|[識別的系列変換を用いた日本語助詞誤りの訂正](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A1-5.pdf)|||
 ||2012|[日本語学習者の誤り傾向を反映した格助詞訂正](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A1-4.pdf)|||
@@ -162,6 +179,7 @@
 ||2014|[小規模誤りデータからの日本語学習者作文の助詞誤り訂正](https://www.jstage.jst.go.jp/article/jnlp/19/5/19_381/_article/-char/ja)|有||
 ||2014|[Particle Error Correction from Small Error Data for Japanese Learners](https://www.jstage.jst.go.jp/article/jnlp/21/4/21_941/_article/-char/ja)|有||
 ||2019|[分類モデルを用いた日本語学習者の格助詞誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C4-8.pdf)|||
+||2020|非自己回帰モデルを用いた高速な日本語文法誤り訂正||[NL研245](https://nl-ipsj.or.jp/2020/09/10/nl245-program/)|
 ||2022|[高速な文法誤り訂正機能を持つ日本語ライティング支援システムの構築](https://www.jstage.jst.go.jp/article/tjsai/37/1/37_37-1_B-L22/_article/-char/ja)|有||
 
 ### データセット
@@ -208,10 +226,17 @@
 ||2018|[Lang-8を用いた日本語学習者向けの誤用検索システムの構築](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P1-23.pdf)|||
 ||2019|[日本語学習者向けの文法誤り検出機能付き誤用例文検索システム](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-16.pdf)|||
 
+### 文法誤り訂正・検出以外の学習者日本語を対象とした話題
+
+|キーワード/概要|Year|論文|査読|Note|
+|:--|:--|:--|:--|:--|
+||2015|部分的アノテーションを利用したCRFによる日本語学習者文の単語分割||[NL研223](https://nl-ipsj.or.jp/2015/09/29/%e7%ac%ac223%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-sig-nl/)|
+
 # 中国語を対象とするもの
 
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
+||2016|統計的機械翻訳を用いた中国語文法誤り訂正||[NL研225](https://nl-ipsj.or.jp/2016/01/06/%e7%ac%ac225%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-%e5%8f%82%e5%8a%a0%e5%8b%9f%e9%9b%86/)|
 ||2020|[事前学習モデルを用いた中国語文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P4-1.pdf)|||
 
 # ロシア語を対象とするもの
@@ -252,3 +277,6 @@
 |[Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder-Decoder Model](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_276/_article/-char/ja)|2021||
 |[Do Grammatical Error Correction Models Realize Grammatical Generalization?](https://www.jstage.jst.go.jp/article/jnlp/28/4/28_1331/_article/-char/ja)|2021||
 |[Exploring Methods for Generating Feedback Comments for Writing Learning](https://www.jstage.jst.go.jp/article/jnlp/29/1/29_270/_article/-char/ja)|2022||
+
+# 書籍
+* 語学学習支援のための言語処理入門
