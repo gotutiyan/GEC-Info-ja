@@ -14,6 +14,7 @@
     * [データクリーニング](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)
     * [分析](https://github.com/gotutiyan/GEC-Info-ja#%E5%88%86%E6%9E%90)
     * [誤り検出](https://github.com/gotutiyan/GEC-Info-ja#%E8%AA%A4%E3%82%8A%E6%A4%9C%E5%87%BA)
+    * [論述リビジョン](https://github.com/gotutiyan/GEC-Info-ja#%E8%AB%96%E8%BF%B0%E3%83%AA%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3)
     * [文法誤り訂正・検出以外の学習者英語を対象とした話題](https://github.com/gotutiyan/GEC-Info-ja#%E6%96%87%E6%B3%95%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E6%A4%9C%E5%87%BA%E4%BB%A5%E5%A4%96%E3%81%AE%E5%AD%A6%E7%BF%92%E8%80%85%E8%8B%B1%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E8%A9%B1%E9%A1%8C)
 * [日本語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
     * [モデル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%A2%E3%83%87%E3%83%AB%E6%8F%90%E6%A1%88-1)
@@ -22,6 +23,7 @@
     * [分析](https://github.com/gotutiyan/GEC-Info-ja#%E5%88%86%E6%9E%90-1)
     * [誤り検出](https://github.com/gotutiyan/GEC-Info-ja#%E8%AA%A4%E3%82%8A%E6%A4%9C%E5%87%BA-1)
     * [システム開発](https://github.com/gotutiyan/GEC-Info-ja#%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA)
+    * [文法誤り訂正・検出以外の学習者日本語を対象とした話題](https://github.com/gotutiyan/GEC-Info-ja#%E6%96%87%E6%B3%95%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E6%A4%9C%E5%87%BA%E4%BB%A5%E5%A4%96%E3%81%AE%E5%AD%A6%E7%BF%92%E8%80%85%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E8%A9%B1%E9%A1%8C)
 * [中国語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
 * [ロシア語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
 * [多言語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E5%A4%9A%E8%A8%80%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
@@ -29,6 +31,7 @@
     * [解説文生成](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E6%96%87%E7%94%9F%E6%88%90)
 * [プロジェクト・企画など](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E4%BC%81%E7%94%BB%E3%81%AA%E3%81%A9)
 * [解説記事・学会記事など](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B%E5%AD%A6%E4%BC%9A%E8%A8%98%E4%BA%8B%E3%81%AA%E3%81%A9)
+* [書籍](https://github.com/gotutiyan/GEC-Info-ja#%E6%9B%B8%E7%B1%8D)
 
 # まとめ・サーベイなど
 
@@ -117,6 +120,7 @@
 ||2012|大規模英語学習者コーパスを用いた英作文の文法誤り訂正の課題分析||[NL研209](https://nl-ipsj.or.jp/2015/07/13/%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e5%ad%a6%e4%bc%9a-%e7%ac%ac209%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2014|[統計的機械翻訳に基づく英語文法誤り訂正におけるフレーズベースと統語ベースの比較と分析](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-12.pdf)|||
 ||2014|統計的機械翻訳を用いた英語文法誤り訂正の結果をリランキングすることで訂正性能の改善はできるか？||[NL研216](https://nl-ipsj.or.jp/2015/07/13/%e7%ac%ac101%e5%9b%9e%e9%9f%b3%e5%a3%b0%e8%a8%80%e8%aa%9e%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-sig-slp-%e7%ac%ac216%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6/)|
+||2015|[英語校正  「Project Next英文校正タスク: 前置詞誤りを対象とした誤り分析」](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcm9qZWN0bmV4dG5scHxneDo1NWJiZjhkNGNkOTY4YjNj)|||
 ||2015|英単語タイピングゲームによるスペリング誤りの抽出と分析||[NL研222](https://nl-ipsj.or.jp/2015/07/14/%e7%ac%ac222%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
 ||2017|[英語学習者の文法誤りパターンと正誤情報を考慮した単語分散表現学習](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-6.pdf)|||
@@ -205,6 +209,7 @@
 ||2012|[外国語母語話者が作成する日本語技術文書を対象とした訂正履歴の分析](https://www.anlp.jp/proceedings/annual_meeting/2012/pdf_dir/A1-9.pdf)|||
 ||2013|[論文作成支援のための学生論文における不適切な表現の分析](https://www.anlp.jp/proceedings/annual_meeting/2013/pdf_dir/P5-4.pdf)|||
 ||2013|[Data Coverage vs. Data Size: A comparison of two large-scale corpora in Collocation Suggestion for Japanese Second Language Learners](https://www.anlp.jp/proceedings/annual_meeting/2013/pdf_dir/X1-4.pdf)|||
+||2015|[日本語校正「Project Next日本語校正タスク」](https://docs.google.com/a/jnlp.org/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcm9qZWN0bmV4dG5scHxneDo2ZDMzM2IwYTc0YmMyMzZl)|||
 ||2020|[日本語文法誤り訂正における最適な分割単位の調査](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P6-6.pdf)|||
 
 ### 誤り検出
