@@ -39,6 +39,12 @@
 |:--|:--|:--|
 |私のブックマーク 「自然言語処理による文法誤り訂正」|[[website]](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol33-no6/) [[pdf]](https://www.jstage.jst.go.jp/article/jjsai/33/6/33_893/_pdf/-char/ja)|2011-2018ごろの文法誤り訂正の動向を追うのに有用．|
 
+# チュートリアル
+
+|タイトル|Note|
+|:--|:--|
+|[ライティング支援のための文法誤り訂正](https://speakerdeck.com/chemical_tree/raiteinguzhi-yuan-falsetamefalsewen-fa-wu-riding-zheng)|||
+
 # 英語を対象とするもの
 
 ### 評価尺度
@@ -76,7 +82,7 @@
 ||2019|[教師なし文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P8-1.pdf)|||
 ||2019|[文法誤り訂正における単語編集率を用いた訂正度の制御](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-32.pdf)|||
 ||2020|[学習者の誤り傾向を考慮した擬似データを用いた文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-9.pdf)||ロシア語の実験もあり|
-||2020|[大規模疑似データを用いた高性能文法誤り訂正モデルの構築](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-1.pdf)|||
+||2020|[大規模疑似データを用いた高性能文法誤り訂正モデルの構築](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-1.pdf)||[スライド](https://speakerdeck.com/butsugiri/da-gui-mo-yi-si-detawoyong-itagao-xing-neng-wen-fa-wu-riding-zheng-moderufalsegou-zhu)|
 ||2020|[分類器による英文前置詞誤り訂正の学習法](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-25.pdf)|||
 ||2021|[文法誤り訂正における訂正度を考慮した多様な訂正文の生成](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_428/_article/-char/ja)|有||
 ||2021|[高再現率な文法誤り訂正システムの実現に向けて](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B8-3.pdf)|||
@@ -110,7 +116,7 @@
 
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
-||2020|[文法誤り訂正のための自己改良戦略に基づくノイズ除去](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-2.pdf)|||
+||2020|[文法誤り訂正のための自己改良戦略に基づくノイズ除去](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-2.pdf)||[スライド](https://fr.slideshare.net/MasatoMita/nlp2020)|
 
 ### 分析
 
@@ -124,9 +130,9 @@
 ||2015|英単語タイピングゲームによるスペリング誤りの抽出と分析||[NL研222](https://nl-ipsj.or.jp/2015/07/14/%e7%ac%ac222%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
 ||2016|[文法誤り訂正における問題点の考察と新タスクの提案](https://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/E3-3.pdf)||
 ||2017|[英語学習者の文法誤りパターンと正誤情報を考慮した単語分散表現学習](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-6.pdf)|||
-||2019|[文法誤り訂正のコーパス横断評価 : 単一コーパス評価で十分か?](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf)|||
+||2019|[文法誤り訂正のコーパス横断評価 : 単一コーパス評価で十分か?](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C5-2.pdf)||[スライド](https://www.slideshare.net/MasatoMita/ss-136676435)|
 ||2019|[⽂法誤り訂正における反復訂正の効果検証](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-17.pdf)|||
-||2021|[文法誤り訂正モデルは訂正に必要な文法を学習しているか](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-4.pdf)|||
+||2021|[文法誤り訂正モデルは訂正に必要な文法を学習しているか](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-4.pdf)||[スライド](https://www.slideshare.net/MasatoMita/nlp2021)|
 ||2021|[文法誤り訂正における複数の逆翻訳モデルを利用した訂正傾向の比較](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P5-19.pdf)|||
 ||2021|[文法誤り訂正モデルの横断評価](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja)|有||
 ||2022|[文法誤り訂正への訂正重要度の導入](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-1.pdf)|||
@@ -148,7 +154,7 @@
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2019|Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond||[NL研241](https://nl-ipsj.or.jp/2019/08/01/nl241-program/)|
-||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)|||
+||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)||[スライド](https://speakerdeck.com/chemical_tree/lun-shu-ribiziyonfalsetamefalsemetaping-jia-ji-pan)|
 
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
 
@@ -200,7 +206,8 @@
 |キーワード/概要|Year|論文|査読|Note|
 |:--|:--|:--|:--|:--|
 ||2018|[誤り文の自動生成による校正エンジンの学習](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/C7-2.pdf)|||
-||2020|[日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/F2-3.pdf)|||
+||2020|[日本語文法誤り訂正における誤り傾向を考慮した擬似誤り生成](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/F2-3.pdf)||[スライド](https://speakerdeck.com/youichiro/ri-ben-yu-wen-fa-wu-riding-zheng-niokeruwu-riqing-xiang-wokao-lu-sitani-si-wu-risheng-cheng)|
+||2021|[日本語文法誤り訂正におけるデータ増強および評価データ構築](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/E1-4.pdf)||[スライド](https://speakerdeck.com/hideyoshikato/ri-ben-yu-wen-fa-wu-riding-zheng-niokerushi-qian-xue-xi-ji-mimoderuwoyong-itadetazeng-qiang)|
 
 ### 分析
 
