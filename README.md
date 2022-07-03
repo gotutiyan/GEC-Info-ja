@@ -1,10 +1,13 @@
-主に日本語で書かれた文法誤り訂正分野の文献を収集・分類することを目的としています．
+日本語で書かれた文法誤り訂正分野の文献を収集・分類することを目的としています．
 
 査読有りの文献には査読カラムに「有」と表記されます．
+
+GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語文献版です．英語で書かれた文献を探す場合は，[GEC-Info](https://github.com/gotutiyan/GEC-Info)が参考になるかもしれません．
 
 # 目次
 
 * [まとめ・サーベイなど](https://github.com/gotutiyan/GEC-Info-ja#%E3%81%BE%E3%81%A8%E3%82%81%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E3%81%AA%E3%81%A9)
+* [チュートリアル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)
 * [英語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E8%8B%B1%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
     * [評価尺度](https://github.com/gotutiyan/GEC-Info-ja#%E8%A9%95%E4%BE%A1%E5%B0%BA%E5%BA%A6)
     * [モデル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%A2%E3%83%87%E3%83%AB%E6%8F%90%E6%A1%88)
@@ -14,7 +17,6 @@
     * [データクリーニング](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%87%E3%83%BC%E3%82%BF%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)
     * [分析](https://github.com/gotutiyan/GEC-Info-ja#%E5%88%86%E6%9E%90)
     * [誤り検出](https://github.com/gotutiyan/GEC-Info-ja#%E8%AA%A4%E3%82%8A%E6%A4%9C%E5%87%BA)
-    * [論述リビジョン](https://github.com/gotutiyan/GEC-Info-ja#%E8%AB%96%E8%BF%B0%E3%83%AA%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3)
     * [文法誤り訂正・検出以外の学習者英語を対象とした話題](https://github.com/gotutiyan/GEC-Info-ja#%E6%96%87%E6%B3%95%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E6%A4%9C%E5%87%BA%E4%BB%A5%E5%A4%96%E3%81%AE%E5%AD%A6%E7%BF%92%E8%80%85%E8%8B%B1%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%97%E3%81%9F%E8%A9%B1%E9%A1%8C)
 * [日本語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
     * [モデル](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%A2%E3%83%87%E3%83%AB%E6%8F%90%E6%A1%88-1)
@@ -28,6 +30,7 @@
 * [ロシア語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
 * [多言語を対象とするもの](https://github.com/gotutiyan/GEC-Info-ja#%E5%A4%9A%E8%A8%80%E8%AA%9E%E3%82%92%E5%AF%BE%E8%B1%A1%E3%81%A8%E3%81%99%E3%82%8B%E3%82%82%E3%81%AE)
 * [関連タスク](https://github.com/gotutiyan/GEC-Info-ja#%E9%96%A2%E9%80%A3%E3%82%BF%E3%82%B9%E3%82%AF)
+    * [論述リビジョン](https://github.com/gotutiyan/GEC-Info-ja#%E8%AB%96%E8%BF%B0%E3%83%AA%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3)
     * [解説文生成](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E6%96%87%E7%94%9F%E6%88%90)
 * [プロジェクト・企画など](https://github.com/gotutiyan/GEC-Info-ja#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E4%BC%81%E7%94%BB%E3%81%AA%E3%81%A9)
 * [解説記事・学会記事など](https://github.com/gotutiyan/GEC-Info-ja#%E8%A7%A3%E8%AA%AC%E8%A8%98%E4%BA%8B%E5%AD%A6%E4%BC%9A%E8%A8%98%E4%BA%8B%E3%81%AA%E3%81%A9)
@@ -68,6 +71,7 @@
 ||2012|英語スペリング訂正と品詞タグ付けの結合学習||[NL研206](https://nl-ipsj.or.jp/2015/07/13/%e7%ac%ac206%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a-sig-nl-%e7%ac%ac91%e5%9b%9e%e9%9f%b3%e5%a3%b0%e8%a8%80%e8%aa%9e%e6%83%85%e5%a0%b1%e5%87%a6/)|
 ||2013|[学習者の誤り傾向を反映した英語動詞選択誤りへの訂正候補推薦](https://www.anlp.jp/proceedings/annual_meeting/2013/index.html)|||
 ||2013|[前置詞誤り検出／訂正のための誤り格フレームの生成](https://www.anlp.jp/proceedings/annual_meeting/2013/index.html)|||
+||2014|[誤り理由を考慮したニューラル文法誤り訂正](https://www.jstage.jst.go.jp/article/pjsai/JSAI2017/0/JSAI2017_2O41/_article/-char/ja/)|||
 ||2014|[定冠詞の前方照応用法を考慮した冠詞誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P4-9.pdf)|||
 ||2014|[誤りに関する説明を提示可能な前置詞誤り訂正手法](https://www.anlp.jp/proceedings/annual_meeting/2014/pdf_dir/P2-10.pdf)|||
 ||2014|複単語表現を考慮した英語文法誤り訂正||[NL研217](https://nl-ipsj.or.jp/2015/07/13/%e6%83%85%e5%a0%b1%e5%87%a6%e7%90%86%e5%ad%a6%e4%bc%9a-%e7%ac%ac217%e5%9b%9e%e8%87%aa%e7%84%b6%e8%a8%80%e8%aa%9e%e5%87%a6%e7%90%86%e7%a0%94%e7%a9%b6%e4%bc%9a/)|
@@ -79,6 +83,7 @@
 ||2017|[文法誤り訂正のための疑似誤り生成によるラベルなしコーパスの利用](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-2.pdf)|||
 ||2018|[ニューラル機械翻訳モデルを用いたマルチソース文法誤り訂正](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_4Pin123/_article/-char/en)|||
 ||2018|[パイプライン処理によるニューラル英語文法誤り検出と訂正](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P4-23.pdf)|||
+||2018|低頻度語学習手法を用いたConvolutional Encoder-Decoderモデルによる文法誤り訂正||[NL研238](https://nl-ipsj.or.jp/2018/11/22/nl238_program/)|
 ||2019|[教師なし文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P8-1.pdf)|||
 ||2019|[文法誤り訂正における単語編集率を用いた訂正度の制御](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-32.pdf)|||
 ||2020|[学習者の誤り傾向を考慮した擬似データを用いた文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-9.pdf)||ロシア語の実験もあり|
@@ -148,13 +153,6 @@
 ||2018|[正誤情報と文法誤りパターンを考慮した単語分散表現を用いた文法誤り検出](https://www.jstage.jst.go.jp/article/jnlp/25/4/25_421/_article/-char/ja)|有||
 ||2019|[深層言語表現モデルに対するマルチヘッド・多層アテンションによる英語文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-36.pdf)|||
 ||2022|[大規模マスク言語モデルの文法誤り認識能力](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-16.pdf)|||
-
-### 論述リビジョン
-
-|キーワード/概要|Year|論文|査読|Note|
-|:--|:--|:--|:--|:--|
-||2019|Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond||[NL研241](https://nl-ipsj.or.jp/2019/08/01/nl241-program/)|
-||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)||[スライド](https://speakerdeck.com/chemical_tree/lun-shu-ribiziyonfalsetamefalsemetaping-jia-ji-pan)|
 
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
 
@@ -264,6 +262,13 @@
 ||2022|[言語間での転移学習のための事前学習モデルと多言語の学習者データを用いた文法誤り訂正](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_314/_article/-char/ja)|有||
 
 # 関連タスク
+
+### 論述リビジョン
+
+|キーワード/概要|Year|論文|査読|Note|
+|:--|:--|:--|:--|:--|
+||2019|Automated Essay Rewriting (AER): Grammatical Error Correction, Fluency Edits, and Beyond||[NL研241](https://nl-ipsj.or.jp/2019/08/01/nl241-program/)|
+||2022|[論述リビジョンのためのメタ評価基盤](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-3.pdf)||[スライド](https://speakerdeck.com/chemical_tree/lun-shu-ribiziyonfalsetamefalsemetaping-jia-ji-pan)|
 
 ### 解説文生成
 
