@@ -83,10 +83,12 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2017|[文法誤り訂正のための疑似誤り生成によるラベルなしコーパスの利用](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P15-2.pdf)|||
 ||2018|[ニューラル機械翻訳モデルを用いたマルチソース文法誤り訂正](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_4Pin123/_article/-char/en)|||
 ||2018|[パイプライン処理によるニューラル英語文法誤り検出と訂正](https://www.anlp.jp/proceedings/annual_meeting/2018/pdf_dir/P4-23.pdf)|||
+||2018|[ニューラル文法誤り訂正モデルにおける低頻度語処理法の提案](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000013159&expandable=2&ConfCd=F&session_num=4e&lecture_number=E-020&year=2018&conf_type=F)|||
 ||2018|[低頻度語学習手法を用いたConvolutional Encoder-Decoderモデルによる文法誤り訂正](http://id.nii.ac.jp/1001/00192646/)|||
 ||2019|[教師なし文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P8-1.pdf)|||
 ||2019|[文法誤り訂正における単語編集率を用いた訂正度の制御](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P3-32.pdf)|||
 ||2020|[学習者の誤り傾向を考慮した擬似データを用いた文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P5-9.pdf)||ロシア語の実験もあり|
+||2020|[教師付き注意機構を用いた文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P4-27.pdf)|||
 ||2020|[大規模疑似データを用いた高性能文法誤り訂正モデルの構築](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/D4-1.pdf)||[スライド](https://speakerdeck.com/butsugiri/da-gui-mo-yi-si-detawoyong-itagao-xing-neng-wen-fa-wu-riding-zheng-moderufalsegou-zhu)|
 ||2020|[分類器による英文前置詞誤り訂正の学習法](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-25.pdf)|||
 ||2021|[文法誤り訂正における訂正度を考慮した多様な訂正文の生成](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_428/_article/-char/ja)|有||
