@@ -95,6 +95,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2021|[高再現率な文法誤り訂正システムの実現に向けて](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/B8-3.pdf)|||
 ||2021|[L1-aware Grammatical Error Correction via Multitasking with Native Language Estimation](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D5-3.pdf)|||
 ||2022|[Masked Language Model による系列確率に基づく文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT4-17.pdf)|||
+||2022|[後続文脈の考慮が文法誤り訂正性能にもたらす影響の調査](http://id.nii.ac.jp/1001/00220139/)||[スライド](https://t.co/O3hOD4ytyh)|
 
 ### データセット
 
@@ -102,6 +103,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 |:--|:--|:--|:--|:--|
 |KJコーパス|2011|[文法誤り情報および品詞／句情報付き英語学習者コーパスの構築](https://www.anlp.jp/proceedings/annual_meeting/2011/pdf_dir/A3-1.pdf)|||
 ||2017|[綴り誤り研究のための日本人英語学習者コーパスの構築](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P18-6.pdf)|||
+||2022|[日本語文法誤り訂正評価コーパスへの誤用タグ付け](http://id.nii.ac.jp/1001/00220138/)|||
 
 ### アノテーション
 
@@ -144,7 +146,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2021|[文法誤り訂正モデルの横断評価](https://www.jstage.jst.go.jp/article/jnlp/28/1/28_160/_article/-char/ja)|有||
 ||2022|[文法誤り訂正への訂正重要度の導入](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-1.pdf)|||
 ||2022|[ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G4-2.pdf)|||
-||2022|[文法誤り訂正における訂正難易度の判別可能性](http://id.nii.ac.jp/1001/00218589/)|||
+||2022|[文法誤り訂正における訂正難易度の判別可能性](http://id.nii.ac.jp/1001/00218589/)||[スライド](https://gotutiyan.github.io/data/slides/NLKen-202206.pdf)|
 
 ### 誤り検出
 
