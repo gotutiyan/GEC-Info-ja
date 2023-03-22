@@ -1,4 +1,5 @@
 日本語で書かれた文法誤り訂正分野の文献を収集・分類することを目的としています．
+（一部，執筆言語は英語だが，国内学会で発表されているので，ひとまずこちらに掲載しているものもあります．）
 
 査読有りの文献には査読カラムに「有」と表記されます．
 
@@ -96,6 +97,8 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2021|[L1-aware Grammatical Error Correction via Multitasking with Native Language Estimation](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D5-3.pdf)|||
 ||2022|[Masked Language Model による系列確率に基づく文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT4-17.pdf)|||
 ||2022|[後続文脈の考慮が文法誤り訂正性能にもたらす影響の調査](http://id.nii.ac.jp/1001/00220139/)||[スライド](https://t.co/O3hOD4ytyh)|
+||2023|[訂正文の流暢性向上を目的とした系列タグ付け文法誤り訂正器の強化学習手法](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q1-9.pdf)||[ポスター](https://github.com/gotutiyan/gotutiyan.github.io/blob/master/data/posters/nlp-2023.pdf)|
+||2023|[対訳コーパスへの擬似文法誤りの挿入による翻訳誤り訂正データの構築](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q1-10.pdf)|||
 
 ### データセット
 
@@ -147,6 +150,8 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2022|[文法誤り訂正への訂正重要度の導入](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E3-1.pdf)|||
 ||2022|[ニューラル文法誤り訂正システムにおけるリランキングの改善に向けたオラクル分析](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G4-2.pdf)|||
 ||2022|[文法誤り訂正における訂正難易度の判別可能性](http://id.nii.ac.jp/1001/00218589/)||[スライド](https://gotutiyan.github.io/data/slides/NLKen-202206.pdf)|
+||2023|[文法誤りにおける一般誤りの分離可能性と解説文生成への応用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C6-2.pdf)|||
+||2023|[第二言語としての日本語学習者が産出する文法的誤りに対する生成文法理論からのアプローチ：生成誤り分析](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-8.pdf)|||
 
 ### 誤り検出
 
@@ -157,6 +162,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2018|[正誤情報と文法誤りパターンを考慮した単語分散表現を用いた文法誤り検出](https://www.jstage.jst.go.jp/article/jnlp/25/4/25_421/_article/-char/ja)|有||
 ||2019|[深層言語表現モデルに対するマルチヘッド・多層アテンションによる英語文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-36.pdf)|||
 ||2022|[大規模マスク言語モデルの文法誤り認識能力](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-16.pdf)|||
+
 
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
 
@@ -230,6 +236,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2017|[マイクロブログを対象とした形態素解析誤りの自動検出と誤り分析](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P5-3.pdf)|||
 ||2019|[小論文採点支援システムにおける文字誤り検出モジュールの構築](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/C4-3.pdf)|||
 ||2022|[日本語学習者向けの文法誤り検出機能付き作文用例検索システム](https://www.jstage.jst.go.jp/article/tjsai/35/5/35_35-5_A-K23/_article/-char/ja)|有||
+||2023|[BERTによる系列ラベリングを用いた文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C7-2.pdf)|||
 
 ### システム開発
 
@@ -259,6 +266,12 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 |:--|:--|:--|:--|:--|
 ||2020|[言語間での転移学習を用いたロシア語文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P6-3.pdf)|||
 
+# スペイン語を対象とするもの
+
+|キーワード/概要|Year|論文|査読|Note|
+|:--|:--|:--|:--|:--|
+||2023|[データ拡張手法を用いたスペイン語文法誤り訂正](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/D8-1.pdf)|||
+
 # 多言語を対象とするもの
 
 |キーワード/概要|Year|論文|査読|Note|
@@ -283,6 +296,9 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2020|[文法誤り解説文生成とはどのようなタスクなのか?](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/F2-5.pdf)|||
 ||2021|[仮想的な誤りタイプの割り当てによる解説文生成の性能向上](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D4-1.pdf)|||
 ||2021|[英語学習者のための解説文生成手法の調査](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/D7-3.pdf)|||
+||2023|[Retrieval, Masking, and Generation：マスクされた解説文を活用した文法誤り解説文生成](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P11-8.pdf)|||
+||2023|[Towards grammatically-informed feedback comments](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C6-4.pdf)|||
+||2023|[Developing a Typology for Language Learning Feedback](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-2.pdf)|||
 
 # プロジェクト・企画など
 
