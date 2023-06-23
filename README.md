@@ -5,6 +5,7 @@
 
 GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語文献版です．英語で書かれた文献を探す場合は，[GEC-Info](https://github.com/gotutiyan/GEC-Info)が参考になるかもしれません．
 
+
 # 目次
 
 * [まとめ・サーベイなど](https://github.com/gotutiyan/GEC-Info-ja#%E3%81%BE%E3%81%A8%E3%82%81%E3%82%B5%E3%83%BC%E3%83%99%E3%82%A4%E3%81%AA%E3%81%A9)
@@ -152,6 +153,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2022|[文法誤り訂正における訂正難易度の判別可能性](http://id.nii.ac.jp/1001/00218589/)||[スライド](https://gotutiyan.github.io/data/slides/NLKen-202206.pdf)|
 ||2023|[文法誤りにおける一般誤りの分離可能性と解説文生成への応用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C6-2.pdf)|||
 ||2023|[第二言語としての日本語学習者が産出する文法的誤りに対する生成文法理論からのアプローチ：生成誤り分析](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-8.pdf)|||
+||2023|[Exploring how well Large-scale Masked Language Models can Recognize Grammatical Errors](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_689/_article/-char/ja)|有||
 
 ### 誤り検出
 
@@ -208,6 +210,7 @@ GEC-Info-jaは，[GEC-Info](https://github.com/gotutiyan/GEC-Info)の日本語�
 ||2021|[日本語Wikipediaの編集履歴に基づく入力誤りデータセットと訂正システムの改良](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/E8-3.pdf)|||
 ||2022|[日本語文法誤り訂正の流暢性評価に向けたデータ作成](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT4-3.pdf)|||
 ||2022|[日本語 Wikipedia の編集履歴に基づく入力誤りデータセットと訂正システムの構築](https://www.jstage.jst.go.jp/article/jnlp/28/4/28_995/_article/-char/ja)|有||
+||2023|[日本語文法誤り訂正のための誤用タグ付き評価コーパスの構築](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_330/_article/-char/ja)|有||
 
 ### 擬似誤り生成
 
