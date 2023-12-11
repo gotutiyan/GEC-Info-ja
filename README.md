@@ -62,6 +62,7 @@
 ||2020|[訂正難易度を考慮した文法誤り訂正のための性能評価尺度](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P2-3.pdf)|||
 ||2021|[文法誤り訂正の参照文を用いない自動評価の人手評価への最適化](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_404/_article/-char/ja)|有||
 ||2022|[IMPARA: パラレルデータにおける修正の影響度に基づいた文法誤り訂正の自動評価法](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G2-3.pdf)|||
+||2023|[文法誤り訂正におけるメタ評価の再考](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=231281&item_no=1&page_id=13&block_id=8)|||
 
 ### モデル
 
