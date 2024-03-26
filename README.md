@@ -63,6 +63,9 @@
 ||2021|[文法誤り訂正の参照文を用いない自動評価の人手評価への最適化](https://www.jstage.jst.go.jp/article/jnlp/28/2/28_404/_article/-char/ja)|有||
 ||2022|[IMPARA: パラレルデータにおける修正の影響度に基づいた文法誤り訂正の自動評価法](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/G2-3.pdf)|||
 ||2023|[文法誤り訂正におけるメタ評価の再考](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=231281&item_no=1&page_id=13&block_id=8)|||
+||2024|[文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-20.pdf)|||
+||2024|[文法誤り訂正の自動評価のための原文・参照文・訂正文間のN-gram F-score](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-25.pdf)|||
+||2024|[文法誤り訂正における参照なし評価尺度を用いた分析的評価法](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D8-5.pdf)||[スライド](https://gotutiyan.github.io/data/slides/nlp-2024.pdf)|
 
 ### モデル
 
@@ -165,6 +168,7 @@
 ||2018|[正誤情報と文法誤りパターンを考慮した単語分散表現を用いた文法誤り検出](https://www.jstage.jst.go.jp/article/jnlp/25/4/25_421/_article/-char/ja)|有||
 ||2019|[深層言語表現モデルに対するマルチヘッド・多層アテンションによる英語文法誤り検出](https://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P1-36.pdf)|||
 ||2022|[大規模マスク言語モデルの文法誤り認識能力](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-16.pdf)|||
+||2024|[文法誤り検出BERTのためのマルチタスク追加事前学習](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/B7-2.pdf)|||
 
 
 ### 文法誤り訂正・検出以外の学習者英語を対象とした話題
