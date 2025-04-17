@@ -161,6 +161,7 @@
 ||2023|[第二言語としての日本語学習者が産出する文法的誤りに対する生成文法理論からのアプローチ：生成誤り分析](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-8.pdf)|||
 ||2023|[Exploring how well Large-scale Masked Language Models can Recognize Grammatical Errors](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_689/_article/-char/ja)|有||
 ||2025|[文法誤り検出/訂正における訓練データと評価データのドメイン不一致による性能向上現象](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P3-10.pdf)|||
+||2025|[NLP2025ワークショップ LLM時代のことばの評価の現在と未来 文法誤り訂正部門](https://sites.google.com/view/nlp2025ws-langeval/task/gec?authuser=0)||[[プログラム]](https://sites.google.com/view/nlp2025ws-langeval/program?authuser=0#:~:text=20%2D16%3A20%E3%80%90-,%E6%96%87%E6%B3%95%E8%AA%A4%E3%82%8A%E8%A8%82%E6%AD%A3%E9%83%A8%E9%96%80,-%E3%80%91%EF%BC%88%E5%BA%A7%E9%95%B7%EF%BC%9A%E4%B8%89%E7%94%B0%20%E9%9B%85%E4%BA%BA)|
 
 ### 誤り検出
 
