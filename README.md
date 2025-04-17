@@ -65,7 +65,9 @@
 ||2023|[文法誤り訂正におけるメタ評価の再考](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=231281&item_no=1&page_id=13&block_id=8)|||
 ||2024|[文法誤り訂正の包括的メタ評価: 既存自動評価の限界と大規模言語モデルの可能性](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-20.pdf)|||
 ||2024|[文法誤り訂正の自動評価のための原文・参照文・訂正文間のN-gram F-score](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P4-25.pdf)|||
-||2024|[文法誤り訂正における参照なし評価尺度を用いた分析的評価法](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D8-5.pdf)||[スライド](https://gotutiyan.github.io/data/slides/nlp-2024.pdf)|
+||2024|[文法誤り訂正における参照なし評価尺度を用いた分析的評価法](https://www.anlp.jp/proceedings/annual_meeting/2024/pdf_dir/D8-5.pdf)||[スライド](https://gotutiyan.github.io/data/slides/nlp-2024.pdf)|||
+||2025|[IMPARA-GED：言語モデルの文法誤り検出能力に着目した文法誤り訂正の参照文なし自動評価](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P3-3.pdf)|||
+||2025|[文法誤り訂正における人手評価と自動評価の乖離とその解決](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P3-9.pdf)|||
 
 ### モデル
 
@@ -158,6 +160,7 @@
 ||2023|[文法誤りにおける一般誤りの分離可能性と解説文生成への応用](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/C6-2.pdf)|||
 ||2023|[第二言語としての日本語学習者が産出する文法的誤りに対する生成文法理論からのアプローチ：生成誤り分析](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/Q10-8.pdf)|||
 ||2023|[Exploring how well Large-scale Masked Language Models can Recognize Grammatical Errors](https://www.jstage.jst.go.jp/article/jnlp/30/2/30_689/_article/-char/ja)|有||
+||2025|[文法誤り検出/訂正における訓練データと評価データのドメイン不一致による性能向上現象](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P3-10.pdf)|||
 
 ### 誤り検出
 
